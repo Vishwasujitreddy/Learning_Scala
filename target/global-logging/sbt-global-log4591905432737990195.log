@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec($ scalac helloInteractive.scala, Some(d236634e-297d-44bc-b4e3-65767bf61e2b), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mExpected symbol[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: $[0m
+[0m[[0m[31merror[0m] [0m[0m$ scalac helloInteractive.scala[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

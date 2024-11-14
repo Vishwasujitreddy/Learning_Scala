@@ -1,0 +1,28 @@
+1724259308939:~run
+1724262894730:$ scalac helloInteractive.scala
+1724262923355:~run
+1730147738438:compile
+1730147857416:runMain Person.Person_Main
+1730147908224:runMain Person_case_class.person_Main
+1730148171216:scala person_Main.scala
+1730148178415:runMain Person_case_class.person_Main
+1730150452317:scala person_Main.scala
+1730150456078:runMain Person_case_class.person_Main
+1730225401942:4+ years of experience in data analysis, machine learning, and statistical analysis and experiment design
+1730225402259:Strong proficiency with Python programming, including experience with core and advanced Python
+1730225402336:Experience with essential packages such as scikit-learn (sklearn), matplotlib, pandas, seaborn, PyTorch, Hugging Face, and OpenAI
+1730225402385:Experience with SQL, specifically experience building models and running queries.
+1730225402424:Generative AI, LLM and NLP knowledge and experience, including the following:
+1730225402455:Ability to build and deploy o Ability to integrate with GCP
+1730225402490:Ability to build data science models and integrate them with the data
+1730225402531:Ability to evaluate data products utilizing Gen AI
+1730225428255:runMain Person_case_class.person_Main
+1730474645334:runMain Exception_main
+1730474760838:~run
+1730474774619:runMain Exception_main
+1730593569159:run Exception_main
+1730593593157:run 6
+1730593619569:runMain Exception_main
+1730595168096:~runMain Exception_main
+1730595965013:last Compile / runMain
+1730596168914:~runMain Exception_main

@@ -1976,3 +1976,30 @@ INFO: Unsupported notification method: $/setTrace
 2024.11.14 12:24:05 INFO  java targets: hello-world, hello-world-test
 2024.11.14 12:24:11 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
 2024.11.14 12:24:11 INFO  time: indexed workspace in 6.49s
+bad option: '-deprication'
+Nov 14, 2024 12:30:46 PM scala.meta.internal.pc.ScalaPresentationCompiler newCompiler
+WARNING: Unknown compiler options: -deprication, -Yrangepos, -Xplugin-require:semanticdb, -release, 17
+2024.11.14 12:30:46 INFO  compiling hello-world (41 scala sources)
+2024.11.14 12:30:46 WARN  Invalid text document uri received from build server: file:///D:/Practise/hello-world/src/main/scala/energy_Meter/hi.scala
+2024.11.14 12:30:46 WARN  Invalid text document uri received from build server: file:///D:/Practise/hello-world/src/main/scala/Energy%20Meter/hi.scala
+2024.11.14 12:30:46 INFO  time: compiled hello-world in 0.34s
+2024.11.14 12:30:51 INFO  compiling hello-world (41 scala sources)
+2024.11.14 12:30:51 INFO  time: compiled hello-world in 39ms
+bad option: '-deprication'
+Nov 14, 2024 12:30:51 PM scala.meta.internal.pc.ScalaPresentationCompiler newCompiler
+WARNING: Unknown compiler options: -deprication, -Yrangepos, -Xplugin-require:semanticdb, -release, 17
+2024.11.14 12:31:48 INFO  compiling hello-world (41 scala sources)
+2024.11.14 12:31:48 INFO  time: compiled hello-world in 35ms
+bad option: '-deprication'
+Nov 14, 2024 12:31:48 PM scala.meta.internal.pc.ScalaPresentationCompiler newCompiler
+WARNING: Unknown compiler options: -deprication, -Yrangepos, -Xplugin-require:semanticdb, -release, 17
+2024.11.14 12:43:17 INFO  compiling hello-world (41 scala sources)
+2024.11.14 12:43:17 INFO  time: compiled hello-world in 35ms
+bad option: '-deprication'
+Nov 14, 2024 12:43:18 PM scala.meta.internal.pc.ScalaPresentationCompiler newCompiler
+WARNING: Unknown compiler options: -deprication, -Yrangepos, -Xplugin-require:semanticdb, -release, 17
+2024.11.14 12:43:20 INFO  compiling hello-world (41 scala sources)
+2024.11.14 12:43:20 INFO  time: compiled hello-world in 35ms
+bad option: '-deprication'
+Nov 14, 2024 12:43:20 PM scala.meta.internal.pc.ScalaPresentationCompiler newCompiler
+WARNING: Unknown compiler options: -deprication, -Yrangepos, -Xplugin-require:semanticdb, -release, 17

@@ -2003,3 +2003,23 @@ WARNING: Unknown compiler options: -deprication, -Yrangepos, -Xplugin-require:se
 bad option: '-deprication'
 Nov 14, 2024 12:43:20 PM scala.meta.internal.pc.ScalaPresentationCompiler newCompiler
 WARNING: Unknown compiler options: -deprication, -Yrangepos, -Xplugin-require:semanticdb, -release, 17
+Nov 14, 2024 4:22:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 14, 2024 4:56:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 14, 2024 5:09:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.11.15 09:35:23 INFO  Started: Metals version 1.4.0 in folders 'D:\Practise\hello-world' for client Visual Studio Code 1.95.2.
+2024.11.15 09:35:27 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.15 09:35:28 INFO  Attempting to connect to the build server...
+2024.11.15 09:35:28 INFO  No running Bloop server found, starting one.
+2024.11.15 09:35:29 INFO  Starting compilation server
+2024.11.15 09:35:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Practise\hello-world\.metals\bsp.trace.json or C:\Users\Vishwasujit\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.15 09:35:31 INFO  time: Connected to build server in 3.16s
+2024.11.15 09:35:31 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.15 09:35:30 INFO  running doctor check
+2024.11.15 09:35:30 INFO  java targets: hello-world, hello-world-test
+2024.11.15 09:35:37 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.15 09:35:37 INFO  time: indexed workspace in 6.73s
+Nov 15, 2024 9:39:07 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

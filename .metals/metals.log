@@ -2023,3 +2023,100 @@ INFO: Unsupported notification method: $/setTrace
 2024.11.15 09:35:37 INFO  time: indexed workspace in 6.73s
 Nov 15, 2024 9:39:07 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.11.15 11:05:39 INFO  Shutting down server
+2024.11.15 11:05:39 INFO  shutting down Metals
+2024.11.15 11:05:39 INFO  Shut down connection with build server.
+2024.11.15 11:05:39 INFO  Exiting server
+2024.11.19 14:37:35 INFO  Started: Metals version 1.4.1 in folders 'D:\Practise\hello-world' for client Visual Studio Code 1.95.2.
+2024.11.19 14:37:35 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.19 14:37:36 INFO  Attempting to connect to the build server...
+2024.11.19 14:37:36 INFO  No running Bloop server found, starting one.
+2024.11.19 14:37:38 INFO  Starting compilation server
+2024.11.19 14:37:39 INFO  no build target found for D:\Practise\hello-world\src\main\scala\Case_Classes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 14:37:39 INFO  no build target found for D:\Practise\hello-world\src\main\scala\Case_Classes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 14:37:39 INFO  no build target found for D:\Practise\hello-world\src\main\scala\Case_Classes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 14:37:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Practise\hello-world\.metals\bsp.trace.json or C:\Users\Vishwasujit\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.19 14:37:39 INFO  no build target found for D:\Practise\hello-world\src\main\scala\Case_Classes.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.19 14:37:40 INFO  time: Connected to build server in 4.78s
+2024.11.19 14:37:40 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.19 14:37:41 INFO  time: Imported build in 0.12s
+2024.11.19 14:37:41 INFO  running doctor check
+2024.11.19 14:37:41 INFO  java targets: hello-world, hello-world-test
+2024.11.19 14:37:43 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.19 14:37:43 INFO  time: indexed workspace in 3.31s
+bad option: '-deprication'
+Nov 19, 2024 2:37:44 PM scala.meta.internal.pc.ScalaPresentationCompiler newCompiler
+WARNING: Unknown compiler options: -deprication, -Yrangepos, -Xplugin-require:semanticdb
+2024.11.19 14:37:44 INFO  compiling hello-world (41 scala sources)
+2024.11.19 14:37:44 WARN  Invalid text document uri received from build server: file:///D:/Practise/hello-world/src/main/scala/energy_Meter/hi.scala
+2024.11.19 14:37:44 WARN  Invalid text document uri received from build server: file:///D:/Practise/hello-world/src/main/scala/Energy%20Meter/hi.scala
+2024.11.19 14:37:44 INFO  time: compiled hello-world in 0.34s
+2024.11.19 14:37:44 INFO  compiling hello-world (41 scala sources)
+2024.11.19 14:37:44 INFO  time: compiled hello-world in 50ms
+2024.11.19 14:37:44 INFO  compiling hello-world (41 scala sources)
+2024.11.19 14:37:45 WARN  Could not load snapshot text for D:\Practise\hello-world\src\main\scala\student\Student_implementations.scala
+2024.11.19 14:37:45 WARN  Could not load snapshot text for D:\Practise\hello-world\src\main\scala\student\Student_implementations.scala
+2024.11.19 14:37:44 INFO  time: compiled hello-world in 59ms
+bad option: '-deprication'
+Nov 19, 2024 2:37:46 PM scala.meta.internal.pc.ScalaPresentationCompiler newCompiler
+WARNING: Unknown compiler options: -deprication, -Yrangepos, -Xplugin-require:semanticdb
+2024.11.19 14:37:46 WARN  Could not load snapshot text for D:\Practise\hello-world\src\main\scala\switch_loops.scala
+2024.11.19 14:37:49 INFO  Shutting down server
+2024.11.19 14:37:49 INFO  shutting down Metals
+2024.11.19 14:37:49 INFO  Shut down connection with build server.
+2024.11.19 14:37:49 INFO  Exiting server
+2024.11.27 10:44:56 INFO  Started: Metals version 1.4.1 in folders 'D:\Practise\hello-world' for client Visual Studio Code 1.95.3.
+2024.11.27 10:44:56 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.27 10:44:57 INFO  no build target found for D:\Practise\hello-world\src\main\scala\switch_loops.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 10:44:58 INFO  Attempting to connect to the build server...
+2024.11.27 10:44:58 INFO  Found a Bloop server running
+2024.11.27 10:45:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Practise\hello-world\.metals\bsp.trace.json or C:\Users\Vishwasujit\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.27 10:45:00 INFO  time: Connected to build server in 2.63s
+2024.11.27 10:45:00 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.27 10:45:01 INFO  time: Imported build in 0.19s
+2024.11.27 10:45:01 INFO  running doctor check
+2024.11.27 10:45:01 INFO  java targets: hello-world, hello-world-test
+2024.11.27 10:45:09 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.27 10:45:09 INFO  time: indexed workspace in 9.57s
+bad option: '-deprication'
+Nov 27, 2024 10:45:11 AM scala.meta.internal.pc.ScalaPresentationCompiler newCompiler
+WARNING: Unknown compiler options: -deprication, -Yrangepos, -Xplugin-require:semanticdb
+2024.11.27 10:45:41 INFO  compiling hello-world (41 scala sources)
+2024.11.27 10:45:41 INFO  time: compiled hello-world in 0.18s
+bad option: '-deprication'
+Nov 27, 2024 10:45:41 AM scala.meta.internal.pc.ScalaPresentationCompiler newCompiler
+WARNING: Unknown compiler options: -deprication, -Yrangepos, -Xplugin-require:semanticdb
+2024.11.27 10:45:42 INFO  compiling hello-world (41 scala sources)
+2024.11.27 10:45:42 INFO  time: compiled hello-world in 0.17s
+2024.11.27 10:45:42 WARN  Could not load snapshot text for D:\Practise\hello-world\src\main\scala\switch_loops.scala
+2024.11.27 10:45:42 WARN  Could not load snapshot text for D:\Practise\hello-world\src\main\scala\switch_loops.scala
+2024.11.27 10:45:42 WARN  Could not load snapshot text for D:\Practise\hello-world\src\main\scala\switch_loops.scala
+bad option: '-deprication'
+Nov 27, 2024 10:45:47 AM scala.meta.internal.pc.ScalaPresentationCompiler newCompiler
+WARNING: Unknown compiler options: -deprication, -Yrangepos, -Xplugin-require:semanticdb
+2024.12.06 12:12:28 INFO  Started: Metals version 1.4.1 in folders 'D:\Practise\hello-world' for client Visual Studio Code 1.95.3.
+2024.12.06 12:12:33 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.06 12:12:33 INFO  no build target found for D:\Practise\hello-world\src\main\scala\switch_loops.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.06 12:12:33 INFO  Attempting to connect to the build server...
+2024.12.06 12:12:33 INFO  No running Bloop server found, starting one.
+2024.12.06 12:12:36 INFO  Starting compilation server
+2024.12.06 12:12:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Practise\hello-world\.metals\bsp.trace.json or C:\Users\Vishwasujit\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.06 12:12:39 INFO  time: Connected to build server in 5.94s
+2024.12.06 12:12:39 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.06 12:12:38 INFO  time: Imported build in 0.12s
+2024.12.06 12:12:38 INFO  running doctor check
+2024.12.06 12:12:38 INFO  java targets: hello-world, hello-world-test
+2024.12.06 12:12:46 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.06 12:12:46 INFO  time: indexed workspace in 7s
+bad option: '-deprication'
+Dec 06, 2024 12:12:46 PM scala.meta.internal.pc.ScalaPresentationCompiler newCompiler
+WARNING: Unknown compiler options: -deprication, -Yrangepos, -Xplugin-require:semanticdb
+2024.12.06 12:12:46 INFO  compiling hello-world (41 scala sources)
+2024.12.06 12:12:46 WARN  Invalid text document uri received from build server: file:///D:/Practise/hello-world/src/main/scala/energy_Meter/hi.scala
+2024.12.06 12:12:46 WARN  Invalid text document uri received from build server: file:///D:/Practise/hello-world/src/main/scala/Energy%20Meter/hi.scala
+2024.12.06 12:12:46 INFO  time: compiled hello-world in 0.32s
+2024.12.06 12:12:47 WARN  Could not load snapshot text for D:\Practise\hello-world\src\main\scala\switch_loops.scala
+2024.12.06 12:12:47 WARN  Could not load snapshot text for D:\Practise\hello-world\src\main\scala\switch_loops.scala
+2024.12.06 12:12:46 INFO  compiling hello-world (41 scala sources)
+2024.12.06 12:12:46 INFO  time: compiled hello-world in 58ms
+2024.12.06 12:12:48 WARN  Could not load snapshot text for D:\Practise\hello-world\src\main\scala\switch_loops.scala

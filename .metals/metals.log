@@ -2120,3 +2120,9 @@ WARNING: Unknown compiler options: -deprication, -Yrangepos, -Xplugin-require:se
 2024.12.06 12:12:46 INFO  compiling hello-world (41 scala sources)
 2024.12.06 12:12:46 INFO  time: compiled hello-world in 58ms
 2024.12.06 12:12:48 WARN  Could not load snapshot text for D:\Practise\hello-world\src\main\scala\switch_loops.scala
+2024.12.06 12:15:40 WARN  Could not load snapshot text for D:\Practise\hello-world\src\main\scala\switch_loops.scala
+2024.12.06 12:15:44 WARN  Could not load snapshot text for D:\Practise\hello-world\src\main\scala\switch_loops.scala
+2024.12.06 12:15:48 WARN  Could not load snapshot text for D:\Practise\hello-world\src\main\scala\switch_loops.scala
+2024.12.06 12:15:53 WARN  Could not load snapshot text for D:\Practise\hello-world\src\main\scala\switch_loops.scala
+2024.12.06 12:15:55 WARN  Could not load snapshot text for D:\Practise\hello-world\src\main\scala\switch_loops.scala
+2024.12.06 12:16:02 WARN  Could not load snapshot text for D:\Practise\hello-world\src\main\scala\switch_loops.scala
